@@ -20,7 +20,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 
 ---
 
-### 🏆 Certifications & Achievements
+###  Certifications & Achievements
 
 | **Blue Team Level 1 (BTL1)** | **Gemini Certified Student** |
 | :---: | :---: |
@@ -29,7 +29,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 
 ---
 
-### 🛡️ Security Labs & Infrastructure Projects
+###  Security Labs & Infrastructure Projects
 
 *Practical simulations and deployments conducted in virtualized environments (VMware/VirtualBox).*
 
