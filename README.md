@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+###  Professional Summary
 
 I am **Nguyen Chi Cuong**, a dedicated and ambitious second-year undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
@@ -14,9 +14,9 @@ With a strong foundation in computer networking and system administration, I am 
 
 I actively engage in practical lab simulations using tools like **VMware, Wireshark, and SIEM solutions** to bridge the gap between theoretical knowledge and real-world application. I am currently seeking opportunities to apply my skills in a professional environment, where I can contribute to organizational security while continuing to learn and grow as a cybersecurity specialist.
 
-* **📍 Location:** Ho Chi Minh City, Vietnam
-* **🎓 Education:** Ho Chi Minh City University of Industry and Trade (HUIT)
-* **🎯 Goal:** To become a professional Security Operations Center (SOC) Analyst / Pentester.
+* ** Location:** Ho Chi Minh City, Vietnam
+* ** Education:** Ho Chi Minh City University of Industry and Trade (HUIT)
+* ** Goal:** To become a professional Security Operations Center (SOC) Analyst / Pentester.
 
 ---
 
@@ -43,7 +43,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 
 ---
 
-### 💻 Software Development Projects
+###  Software Development Projects
 
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :---: |
@@ -56,7 +56,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 * **Operating Systems:** Linux (Kali, Ubuntu, CentOS), Windows Server.
 * **Networking:** TCP/IP, Subnetting, OSI Model, VPN, DNS, DHCP.
@@ -66,7 +66,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="mailto:chicuong9802@gmail.com">
     <img src="https://img.shields.io/badge/Email-chicuong9802@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
