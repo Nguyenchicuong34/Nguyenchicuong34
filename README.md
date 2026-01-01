@@ -1,63 +1,64 @@
 <h1 align="center">Hi there, I'm Cường! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=InfoSec+Student+@+HUIT;C%2FC%2B%2B+%26+Python+Developer;Network+Security+Enthusiast;CTF+Player..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=InfoSec+Student+@+HUIT;Blue+Team+Level+1+(BTL1);Network+Security+Enthusiast;Python+%26+Java+Coder..." alt="Typing SVG" />
 </p>
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
 > *"Security is not a product, but a process."*
 
-I am a second-year **Information Security** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**. I have a strong passion for understanding how systems work at a low level and securing them against cyber threats.
-
--  **Education:** HUIT (Major: Information Security).
--  **Certifications:** Gemini Education, Blue Team Level 1 (BTL1).
--  **Focus:** Mastering Data Structures & Algorithms (DSA), Network Security, and Web Pentesting.
--  **Soft Skills:** Problem-solving, Teamwork, Research.
+I am a second-year **Information Security** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
+- 🎓 **Education:** HUIT (Major: Information Security).
+- 🔭 **Focus:** Network Security, Web Pentesting, and Software Development.
+- ⚡ **Tech Stack:** Python, Java, C/C++, HTML/CSS.
 
 ---
 
-###  Featured Projects
+### 🏆 Certifications & Achievements
 
-| Project Name | Description & Tech Stack |
-| :--- | :--- |
-| **Student Management System** | A comprehensive desktop application to manage student records.<br> **Tech:** C# (.NET), SQL Server.<br>✨ *Features: CRUD operations, Search, Report generation.* |
-| **Classroom Management** | Optimized system for managing class data using efficient algorithms.<br> **Tech:** C/C++, Data Structures (DSA).<br>✨ *Features: Linked Lists, Binary Trees, Memory Management.* |
-| **Web & Automation Tools** | Various scripts and web interfaces for automation and display.<br>**Tech:** Python, HTML5, CSS3.<br>✨ *Features: Data scraping, Responsive UI, Task automation.* |
+| **Blue Team Level 1 (BTL1)** | **Gemini Certified Student** |
+| :---: | :---: |
+| <img src="btl1.jpg" width="400" alt="BTL1 Certificate"> | <img src="gemini.png" width="400" alt="Gemini Certificate"> |
+| *Demonstrated knowledge in Phishing Analysis, Digital Forensics, SIEM, and Incident Response.* | *Demonstrated knowledge, skills, and basic competencies needed to use Google AI.* |
 
 ---
 
-###  Arsenal & Skills
+### 🚀 Featured Projects
+
+| Project Name | Tech Stack | Link to Code |
+| :--- | :--- | :---: |
+| **💰 Personal Expense Manager** | Python, Rich Lib | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/QuanLyChiTieu.py) |
+| **❌⭕ Simple Caro Game** | Java | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/caro.java) |
+| **🔐 Web Login Interface** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/login.html) |
+| **🛒 Online Shopping UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/salebuyinfo.html) |
+| **📱 iPhone Demo App UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/iphone_demo.html) |
+| **💳 Bill Banking Basic UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/billbanking.html) |
+
+---
+
+### 🛠️ Arsenal & Skills
 
 **Languages:**
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Security & Tools:**
+**Security Tools:**
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyenchicuong34&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenchicuong34&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</div>
-
----
-
-### Connect with Me
+### 📫 Connect with Me
 <p align="center">
   <a href="mailto:chicuong9802@gmail.com">
     <img src="https://img.shields.io/badge/Email-chicuong9802@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
