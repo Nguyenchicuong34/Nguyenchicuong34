@@ -14,9 +14,9 @@ With a strong foundation in computer networking and system administration, I am 
 
 I actively engage in practical lab simulations using tools like **VMware, Wireshark, and SIEM solutions** to bridge the gap between theoretical knowledge and real-world application. I am currently seeking opportunities to apply my skills in a professional environment, where I can contribute to organizational security while continuing to learn and grow as a cybersecurity specialist.
 
-* ** Location:** Ho Chi Minh City, Vietnam
-* ** Education:** Ho Chi Minh City University of Industry and Trade (HUIT)
-* ** Goal:** To become a professional Security Operations Center (SOC) Analyst / Pentester.
+* ** Location: Ho Chi Minh City, Vietnam
+* ** Education: Ho Chi Minh City University of Industry and Trade (HUIT)
+* ** Goal: To become a professional Security Operations Center (SOC) Analyst / Pentester.
 
 ---
 
