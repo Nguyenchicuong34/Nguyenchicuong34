@@ -1,19 +1,22 @@
-<h1 align="center">Hi there, I'm Cường! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Nguyen Chi Cuong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=InfoSec+Student+@+HUIT;Blue+Team+Level+1+(BTL1);Network+Security+Enthusiast;Python+%26+Java+Coder..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=InfoSec+Student+@+HUIT;Blue+Team+Level+1+(BTL1);Network+Security+Enthusiast;Security+Analyst+in+Training..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-> *"Security is not a product, but a process."*
+I am **Nguyen Chi Cuong**, a dedicated and ambitious second-year undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
-I am a second-year **Information Security** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
-- 🎓 **Education:** HUIT (Major: Information Security).
-- 🔭 **Focus:** Network Security, Web Pentesting, and Software Development.
-- ⚡ **Tech Stack:** Python, Java, C/C++, HTML/CSS.
+With a strong foundation in computer networking and system administration, I am deeply passionate about **Blue Team operations**, **Digital Forensics**, and **Network Defense**. My academic journey is defined by a relentless drive to understand the complexities of modern cyber threats and the methodologies required to secure critical digital infrastructures.
+
+I actively engage in practical lab simulations using tools like **VMware, Wireshark, and SIEM solutions** to bridge the gap between theoretical knowledge and real-world application. I am currently seeking opportunities to apply my skills in a professional environment, where I can contribute to organizational security while continuing to learn and grow as a cybersecurity specialist.
+
+* **📍 Location:** Ho Chi Minh City, Vietnam
+* **🎓 Education:** Ho Chi Minh City University of Industry and Trade (HUIT)
+* **🎯 Goal:** To become a professional Security Operations Center (SOC) Analyst / Pentester.
 
 ---
 
@@ -26,35 +29,40 @@ I am a second-year **Information Security** student at **Ho Chi Minh City Univer
 
 ---
 
-### 🚀 Featured Projects
+### 🛡️ Security Labs & Infrastructure Projects
 
-| Project Name | Tech Stack | Link to Code |
-| :--- | :--- | :---: |
-| **💰 Personal Expense Manager** | Python, Rich Lib | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/QuanLyChiTieu.py) |
-| **❌⭕ Simple Caro Game** | Java | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/caro.java) |
-| **🔐 Web Login Interface** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/login.html) |
-| **🛒 Online Shopping UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/salebuyinfo.html) |
-| **📱 iPhone Demo App UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/iphone_demo.html) |
-| **💳 Bill Banking Basic UI** | HTML, CSS | [View Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/billbanking.html) |
+*Practical simulations and deployments conducted in virtualized environments (VMware/VirtualBox).*
+
+| Project Title | Description & Technologies Used |
+| :--- | :--- |
+| **Enterprise Network Simulation** | Deployed a fully functional corporate network on Linux (Ubuntu Server/CentOS). Configured core services including **DHCP** for dynamic IP allocation, **DNS** for domain resolution, and **VPN** (OpenVPN) for secure remote access. |
+| **Network Traffic Analysis** | Conducted deep packet inspection using **Wireshark** to detect anomalies. Analyzed PCAP files to identify ARP Spoofing, TCP SYN Flood attacks, and unauthorized data exfiltration attempts. |
+| **Malware Sandbox Analysis** | Set up an isolated **Sandbox environment** (Cuckoo/Any.Run) to safely execute and analyze suspicious executables. Observed behavioral patterns and registry changes of potential malware without risking the host machine. |
+| **Phishing Simulation Campaign** | Designed a controlled **Phishing simulation** using GoPhish to test user awareness. Created email templates, setup landing pages, and tracked click-rates to understand social engineering vectors. |
+| **SIEM Log Monitoring** | Implemented a **SIEM solution** (Wazuh/Splunk) to aggregate logs from various endpoints. Configured alert rules to detect SSH Brute Force attacks and privilege escalation attempts in real-time. |
 
 ---
 
-### 🛠️ Arsenal & Skills
+### 💻 Software Development Projects
 
-**Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+| Project Name | Tech Stack | Link |
+| :--- | :--- | :---: |
+| **Personal Expense Manager** | Python, Rich Lib, JSON | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/QuanLyChiTieu.py) |
+| **Simple Caro Game** | Java, OOP Logic | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/caro.java) |
+| **Web Login Interface** | HTML5, CSS3, Responsive | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/login.html) |
+| **Online Shopping UI** | HTML, CSS, Frontend Design | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/salebuyinfo.html) |
+| **iPhone Demo App UI** | HTML, CSS, Flexbox | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/iphone_demo.html) |
+| **Bill Banking Basic UI** | HTML, CSS, Forms | [View Source Code](https://github.com/Nguyenchicuong34/Professional-Python-Template/blob/main/billbanking.html) |
 
-**Security Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+---
+
+### 🛠️ Technical Skills
+
+* **Operating Systems:** Linux (Kali, Ubuntu, CentOS), Windows Server.
+* **Networking:** TCP/IP, Subnetting, OSI Model, VPN, DNS, DHCP.
+* **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Snort, Wazuh (SIEM).
+* **Programming:** Python (Automation), C/C++, Java, SQL, Bash Scripting.
+* **Virtualization:** VMware Workstation, VirtualBox, Docker.
 
 ---
 
