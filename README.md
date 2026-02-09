@@ -61,7 +61,7 @@ I actively engage in practical lab simulations using tools like **VMware, Wiresh
 * **Operating Systems:** Linux (Kali, Ubuntu, CentOS), Windows Server.
 * **Networking:** TCP/IP, Subnetting, OSI Model, VPN, DNS, DHCP.
 * **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Snort, Wazuh (SIEM).
-* **Programming:** Python (Automation), C/C++, Java, SQL, Bash Scripting.
+* **Programming:** Python (Automation), C/C++, SQL, Bash Scripting.
 * **Virtualization:** VMware Workstation, VirtualBox, Docker.
 
 ---
