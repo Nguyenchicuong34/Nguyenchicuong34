@@ -1,54 +1,58 @@
 <h1 align="center">Nguyen Chi Cuong</h1>
-
 <p align="center">
-  <strong>Information Security Student @ HUIT | Blue Team Level 1 (BTL1) | Security Analyst</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Information+Security+Student+@+HUIT" alt="Typing SVG" />
 </p>
-
 <hr>
 
 ### Professional Summary
 
-I am **Nguyen Chi Cuong**, a dedicated second-year undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**. 
+I am **Nguyen Chi Cuong**, an undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
-With a robust foundation in network security, system administration, and modern threat detection, I am deeply passionate about Blue Team operations, Digital Forensics, and the integration of Artificial Intelligence in cybersecurity. My academic and practical pursuits are focused on understanding the evolving landscape of cyber threats and architecting resilient digital infrastructures. 
+With a rare combination of offensive and defensive skill sets, I hold the distinguished **OffSec Certified Professional (OSCP)** certification, demonstrating rigorous practical mastery in penetration testing, vulnerability analysis, and real-world exploitation. I complement this with the **Blue Team Level 1 (BTL1)** certification, reinforcing my capabilities in security operations, threat detection, and incident response.
 
-I actively bridge the gap between theoretical concepts and real-world application by designing secure architectures, analyzing network traffic, and deploying advanced analysis tools within AWS and Docker environments. I am currently seeking opportunities to leverage my expertise in security operations and automated threat hunting to contribute to organizational defense.
+This dual perspective enables me to approach cybersecurity challenges holistically, understanding both the attacker's mindset and defensive countermeasures. I specialize in integrating AI with automated threat hunting, deploying scalable security infrastructure using AWS and Docker, and maintaining the security posture of critical assets. I am currently seeking professional roles in Security Operations (SOC) or Penetration Testing where I can leverage this unique combination to drive proactive defense strategies.
 
 * **Location:** Ho Chi Minh City, Vietnam
 * **Education:** Ho Chi Minh City University of Industry and Trade (HUIT)
-* **Objective:** To excel as a Security Operations Center (SOC) Analyst and advance into cloud and AI-driven security engineering.
+* **Objective:** To excel as a leading Security Engineer, driving holistic security postures.
+<hr>
 
+### Certifications
+
+#### Featured Certification: OffSec Certified Professional (OSCP)
+
+| Certification | Verification |
+| :--- | :--- |
+| <img src="oscp_certificate.jpg" width="100%" alt="OSCP Certificate"> | Verify via the OffSec validation portal or by scanning the QR code in the image above. |
+
+---
+
+#### Additional Certifications
+
+| Blue Team Level 1 (BTL1) | Gemini Certified Student |
+| :---: | :---: |
+| <img src="btl1.jpg" width="400" alt="BTL1 Certificate"> | <img src="gemini.jpg" width="400" alt="Gemini Certificate"> |
+| *Practical competence in Phishing Analysis, Digital Forensics, SIEM (Splunk/Wazuh), and Incident Response.* | *Validated knowledge and competence in leveraging modern AI for research and process automation.* |
 <hr>
 
 ### Core Security & Development Projects
 
-*Advanced implementations focusing on AI integration, automated security scanning, and machine learning research.*
+*Practical applications focusing on AI-driven security, automated scanning, and advanced analytics.*
 
 | Project Title | Description & Objectives | Source Code |
 | :--- | :--- | :---: |
-| **Sentinel Security AI** | An AI-driven security analysis framework designed to detect network anomalies and identify potential indicators of compromise. Leverages machine learning models to enhance automated incident response and threat intelligence. | [Repository](https://github.com/Nguyenchicuong34/Sentinel-Security-AI) |
-| **Sentinel Security Scanner** | A comprehensive vulnerability scanning utility built to automate network reconnaissance, identify misconfigurations, and assess security postures across local and cloud infrastructures. | [Repository](https://github.com/Nguyenchicuong34/Sentinel-Security-Scanner) |
-| **Python AI Study** | Research and implementation of Artificial Intelligence and Machine Learning models using Python. Focuses on foundational algorithms, data processing, and their applications in predictive analytics. | [Repository](https://github.com/Nguyenchicuong34/Python-AI-Study) |
-
-<hr>
-
-### Certifications & Achievements
-
-| Certification | Description |
-| :--- | :--- |
-| **Blue Team Level 1 (BTL1)** | Demonstrated practical competence in Phishing Analysis, Digital Forensics, SIEM operations, and Incident Response methodologies. |
-| **Gemini Certified Student** | Validated knowledge, skills, and competencies in utilizing modern AI technologies for research and process automation. |
-
+| **Sentinel Security AI** | An intelligent threat intelligence platform that leverages machine learning to enhance automated incident response and proactive threat hunting by analyzing diverse data sources for advanced persistent threats (APTs). | [Repository](https://github.com/Nguyenchicuong34/Sentinel-Security-AI) |
+| **Sentinel Security Scanner** | A high-performance network and application vulnerability scanner engineered for compliance auditing and reconnaissance. Designed to automatically discover and assess critical risks in hybrid (on-prem/cloud) environments. | [Repository](https://github.com/Nguyenchicuong34/Sentinel-Security-Scanner) |
+| **Python AI Study** | Applied research into foundational machine learning and deep learning algorithms, including implementations for anomaly detection and predictive modeling relevant to security applications. | [Repository](https://github.com/Nguyenchicuong34/Python-AI-Study) |
 <hr>
 
 ### Technical Proficiencies
 
 * **Operating Systems:** Kali Linux, Ubuntu Server, CentOS, Windows Server.
 * **Cloud & Virtualization:** AWS (Amazon Web Services), Docker, VMware Workstation.
-* **Security Tools:** Wireshark, Splunk, Wazuh (SIEM), Burp Suite, Nmap, Metasploit, Snort.
-* **Networking:** TCP/IP, OSI Model, Subnetting, VPN, DNS, DHCP, Deep Packet Inspection.
+* **Security Operations (Blue Team):** Splunk, Wazuh (SIEM), Snort, Wireshark, Incident Response.
+* **Penetration Testing (Red Team):** Nmap, Burp Suite, Metasploit, PowerShell, SQL Injection, Privilege Escalation.
 * **Programming & Automation:** Python, Bash Scripting, C/C++, SQL.
-
 <hr>
 
 ### Connect with Me
