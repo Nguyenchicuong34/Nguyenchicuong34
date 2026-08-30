@@ -1,4 +1,4 @@
-<h1 align="center">Nguyen Chi Cuong</h1>
+<h1 align="center">Cuong Chi Nguyen</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Information+Security+Student+@+HUIT" alt="Typing SVG" />
 </p>
@@ -6,7 +6,7 @@
 
 ### Professional Summary
 
-I am **Nguyen Chi Cuong**, an undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
+I am **Cuong Chi Nguyen**, an undergraduate majoring in **Information Security** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
 With a rare combination of offensive and defensive skill sets, I hold the distinguished **OffSec Certified Professional (OSCP)** certification, demonstrating rigorous practical mastery in penetration testing, vulnerability analysis, and real-world exploitation. I complement this with the **Blue Team Level 1 (BTL1)** certification, reinforcing my capabilities in security operations, threat detection, and incident response.
 
@@ -21,9 +21,9 @@ This dual perspective enables me to approach cybersecurity challenges holistical
 
 #### Featured Certification: OffSec Certified Professional (OSCP)
 
-| Certification | Verification |
+| Certification | Credential Verification |
 | :--- | :--- |
-| <img src="oscp_certificate.jpg" width="100%" alt="OSCP Certificate"> | Verify via the OffSec validation portal or by scanning the QR code in the image above. |
+| <img src="oscp_certificate.jpg" width="100%" alt="OSCP Certificate"> | **Official OffSec Certified Professional Credential.** <br><br> Authenticity and current standing can be independently verified through the official OffSec validation portal or by scanning the provided QR code. |
 
 ---
 
